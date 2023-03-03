@@ -8,15 +8,13 @@ body {
 }
 /*-----------------------------header--------------------------*/
 .list{
-    list-style: none
+    list-style: none;
 }
 
 .header-logo{
     text-decoration: none;
 }
-.link{
-    text-decoration: none;
-   }
+
 .header-logo{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -26,6 +24,9 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.link{
+    text-decoration: none;
+   }
 .header-studio{
     font-family: 'Raleway' sans-serif;
     font-style: normal;
@@ -34,13 +35,17 @@ body {
     line-height: 1.17x;
     color: #2e2f42;
 }
-.header-main-link {
+.header-main-link, {
     color: #2E2F42;
 }
 .link:hover{
     color: #404bbf;
 }
-.main {
+/*-----------------------------address--------------------------*/
+.body-aside{
+    font-style: normal
+}
+.mail {
     list-style: none;
 }
 .address {
