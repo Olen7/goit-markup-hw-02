@@ -92,7 +92,7 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #FFFFFF;
 }
-.btm{
+.btn{
     background: #4d5ae5; 
 }
 .btm:hover {
@@ -102,7 +102,7 @@ color: #434455;
 .address-mail, .address-phone{
      text-decoration: none;
     }
-    .cursor{
+    .btn{
         cursor: pointer
     }
 /*--------------------------siction2---------------------------*/
