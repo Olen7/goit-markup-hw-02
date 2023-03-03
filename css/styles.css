@@ -35,7 +35,7 @@ body {
     color: #2E2F42;
 }
 .link:hover{
-    color: #404BBF;
+    color: #404bbf;
 }
 .main {
     list-style: none;
@@ -53,7 +53,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .mail:hover{
-    color: #404BBF;
+    color: #404bbf;
 }
 .address-phone{
     font-family: 'Roboto';
@@ -65,12 +65,12 @@ color: #434455;
     color: #434455;
     }
     .phone:hover{
-        color: #404BBF;
+        color: #404bbf;
     }
 
 /*--------------------------siction1---------------------------*/
 .hero-image{
-    background: #2E2F42
+    background: #2e2f42
 }
 
 .hero-title{
@@ -81,7 +81,7 @@ color: #434455;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 .button-btn {
     font-family: 'Roboto';
@@ -93,7 +93,7 @@ color: #434455;
     color: #FFFFFF;
 }
 .btm{
-    background: #4D5AE5; 
+    background: #4d5ae5; 
 }
 .btm:hover {
     background: #404BBF;
