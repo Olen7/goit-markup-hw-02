@@ -7,6 +7,9 @@ body {
   
 }
 /*-----------------------------header--------------------------*/
+.list{
+    list-style: none
+}
 
 .header-logo{
     text-decoration: none;
@@ -108,7 +111,7 @@ color: #434455;
 /*--------------------------siction2---------------------------*/
 .text-lead{
     list-style: none;}
-.list{
+.#{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -190,7 +193,7 @@ color: #2E2F42;
 
 
 /*--------------------------Portfolio.html----------------------*/
-.list{
+.#{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
