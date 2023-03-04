@@ -32,11 +32,28 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-item:hover{
+.header-item:hover, .header-item:focus {
     color: #404bbf
 }
 /*--------------------------address---------------------------------------*/
+.socials{
+    font-style: normal 
+}
+.socials-mail,
+.socials-phone
+{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455
+}
+.socials-mail:hover, .socials-list:focus,
+.socials-phone:hover, .socials-phone:focus {
+    color: #404bbf
+}
+.socials-phone{
 
+}
 /*--------------------------siction1--------------------------------------*/
 
 /*--------------------------siction2--------------------------------------*/
