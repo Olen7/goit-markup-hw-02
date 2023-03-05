@@ -47,7 +47,7 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color:#434455
 }
-.socials-mail:hover, .socials-list:focus,
+.socials-mail:hover, .socials-mail:focus,
 .socials-phone:hover, .socials-phone:focus {
     color: #404bbf
 }
