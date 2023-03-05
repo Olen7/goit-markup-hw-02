@@ -54,7 +54,7 @@ body {
     color: #404bbf; }
   
 /*--------------------------siction1--------------------------------------*/
-.headline {
+.title {
     background-color: #2e2f42;
 }
 .caption {
@@ -64,7 +64,7 @@ body {
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.headline-btn {
+.title-btn {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
