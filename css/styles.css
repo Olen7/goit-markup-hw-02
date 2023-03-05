@@ -33,7 +33,7 @@ color: #2e2f42;
     color: #2e2f42;
 }
 .header-item:hover, .header-item:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 /*--------------------------address---------------------------------------*/
 .socials{
@@ -45,11 +45,11 @@ color: #2e2f42;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#434455
+    color:#434455;
 }
 .socials-mail:hover, .socials-mail:focus,
-.socials-phone:hover, .socials-phone:focus {
-    color: #404bbf
+.socials-phone:hover, .socials-mail:focus,  {
+    color: #404bbf;
 }
 .socials-phone{
 
