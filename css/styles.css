@@ -86,7 +86,15 @@ body {
     letter-spacing: 0.02em;
 }
 /*--------------------------siction3--------------------------------------*/
+.img-text {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitaliz;
+    color:#2e2f42 ;
 
+}
 /*--------------------------siction4--------------------------------------*/
 /*--------------------------FOOTHER---------------------------------------*/
 
