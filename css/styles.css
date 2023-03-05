@@ -47,13 +47,11 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color:#434455;
 }
- .socials-mail:focus,
- .socials-mail:focus,  {
-    color: #404bbf;
-}
-.socials-phone{
-
-}
+.socials-mail:focus, .socials-mail:hover  {
+    color: #404bbf; }
+.socials-phone:focus, .socials-phone:hover  {
+    color: #404bbf; }
+  
 /*--------------------------siction1--------------------------------------*/
 
 /*--------------------------siction2--------------------------------------*/
