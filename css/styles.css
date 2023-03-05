@@ -5,12 +5,12 @@ body {
     font-style: normal;
     background-color:#FFFFFF;}
   
-.list{
+.list {
     list-style: none;}
-.link{
+.link {
     text-decoration: none;}
 /*--------------------------header----------------------------------------*/
-.header-link{
+.header-link {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -21,11 +21,11 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.header-studio{
+.header-studio {
 color: #2e2f42;
 }
 
-.header-item{
+.header-item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50;
@@ -36,7 +36,7 @@ color: #2e2f42;
     color: #404bbf;
 }
 /*--------------------------address---------------------------------------*/
-.socials{
+.socials {
     font-style: normal 
 }
 .socials-mail,
@@ -47,8 +47,8 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color:#434455;
 }
-.socials-mail:hover, .socials-mail:focus,
-.socials-phone:hover, .socials-mail:focus,  {
+ .socials-mail:focus,
+ .socials-mail:focus,  {
     color: #404bbf;
 }
 .socials-phone{
